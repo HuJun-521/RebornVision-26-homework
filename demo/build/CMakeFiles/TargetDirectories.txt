@@ -1,0 +1,3 @@
+/home/hj/demo/build/CMakeFiles/demo.dir
+/home/hj/demo/build/CMakeFiles/edit_cache.dir
+/home/hj/demo/build/CMakeFiles/rebuild_cache.dir
